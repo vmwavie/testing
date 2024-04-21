@@ -1,0 +1,15 @@
+:root {
+  --primary-background-color: #f0f0f0;
+  --secondary-background-color: #f0f0f0;
+  
+  --primary-button-background-color: #171717;
+  --primary-button-background-hover-color: #f0f0f0;
+  --primary-button-border-active-color: #171717;
+  --primary-button-border-desactived: #f0f0f0;
+  --primary-button-text-color: #f0f0f0;
+  --primary-button-text-hover-color: #171717;
+
+  --primary-text: #171717;
+
+  --default-container-padding: 12px;
+}
